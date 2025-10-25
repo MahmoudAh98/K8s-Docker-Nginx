@@ -12,8 +12,8 @@ It demonstrates how to containerize, deploy, and load balance multiple Node.js a
 
 - Built two independent Node.js apps.
 - Created Docker images for both and pushed them to **Docker Hub** for seamless deployment and reusability.
-**https://hub.docker.com/repository/docker/mohamednasser733/nodejs-app1/general**
-**https://hub.docker.com/repository/docker/mohamednasser733/nodejs-app2/general**
+**https://hub.docker.com/repository/docker/mahmoudah98/node-app1**
+**https://hub.docker.com/repository/docker/mahmoudah98/node-app2**
 
 ---
 
