@@ -1,0 +1,12 @@
+upstream backend_servers {
+    server my-service1:3000;
+    server my-service2:3000;
+}
+
+server {
+    listen 80;
+
+    location / {
+        proxy_pass http://backend_servers;
+    }
+}
