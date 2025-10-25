@@ -4,6 +4,10 @@ It demonstrates how to containerize, deploy, and load balance multiple Node.js a
 
 ---
 
+![Demo](media/demo.gif)
+
+
+
 ## ⚙️ Dockerized Node.js Applications
 
 - Built two independent Node.js apps.
